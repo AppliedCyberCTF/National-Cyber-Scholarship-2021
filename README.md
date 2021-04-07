@@ -10,7 +10,9 @@ This specific writeup is from the ACS, or Applied Cybersecurity Society.
 [BM03](BM03.md)\
 [BH01](BH01.md)\
 [FE01](FE01.md)\
-[FE04](FE04.md)
+[FE04](FE04.md)\
+[NE01](NE01.md)\
+[NM01](NM01.md)
 
 ```
 Written by the Applied Cybersecurity Society
