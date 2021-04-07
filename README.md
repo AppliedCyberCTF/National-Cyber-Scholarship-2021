@@ -13,5 +13,5 @@ This specific writeup is from the ACS, or Applied Cybersecurity Society.
 [FE04](FE04.md)
 
 ```
-FLAG: luckyNumber13
+Written by the Applied Cybersecurity Society
 ```
