@@ -13,6 +13,9 @@ This specific writeup is from the ACS, or Applied Cybersecurity Society.
 [BH01](./Binary/BH01.md)\
 [BX01](./Binary/BX01.md)
 
+**Crypto Flags:**\
+[CX01](./Crypto/CX01.md)
+
 **Forensic Flags:**\
 [FE01](./Forensics/FE01.md)\
 [FE04](./Forensics/FE04.md)\
@@ -23,6 +26,10 @@ This specific writeup is from the ACS, or Applied Cybersecurity Society.
 **Networking Flags:**\
 [NE01](./Networking/NE01.md)\
 [NM01](./Networking/NM01.md)
+
+**Web Flags:**\
+[WE01](./Web/WE01.md)\
+[WE02](./Web/WE02.md)
 
 ```
 Written by the Applied Cybersecurity Society
