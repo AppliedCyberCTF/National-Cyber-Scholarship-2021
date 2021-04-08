@@ -19,7 +19,7 @@ This specific writeup is from the ACS, or Applied Cybersecurity Society.
 **Forensic Flags:**\
 [FE01](./Forensics/FE01.md)\
 [FE04](./Forensics/FE04.md)\
-[FM01](./Forensice/FM01.md)\
+[FM01](./Forensics/FM01.md)\
 [FM03](./Forensics/FM03.md)
 
 
