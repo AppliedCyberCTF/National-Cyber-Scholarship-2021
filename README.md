@@ -6,19 +6,19 @@ This specific writeup is from the ACS, or Applied Cybersecurity Society.
 
 ## Table of Contents
 **Binary Flags:**\
-[BE02](BE02.md)\
-[BM02](BM02.md)\
-[BM03](BM03.md)\
-[BH01](BH01.md)
+[BE02](./Binary/BE02.md)\
+[BM02](./Binary/BM02.md)\
+[BM03](./Binary/BM03.md)\
+[BH01](./Binary/BH01.md)
 
 **Forensic Flags:**\
-[FE01](FE01.md)\
-[FE04](FE04.md)\
-[FM03](https://github.com/AppliedCyberCTF/National-Cyber-Scholarship-2021/blob/main/Forensics/FM03.md)
+[FE01](./Forensics/FE01.md)\
+[FE04](./Forensics/FE04.md)\
+[FM03](./Forensics/FM03.md)
 
 **Networking Flags:**\
-[NE01](NE01.md)\
-[NM01](NM01.md)
+[NE01](./Networking/NE01.md)\
+[NM01](./Networking/NM01.md)
 
 ```
 Written by the Applied Cybersecurity Society
