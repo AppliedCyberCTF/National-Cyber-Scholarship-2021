@@ -7,6 +7,7 @@ This specific writeup is from the ACS, or Applied Cybersecurity Society.
 ## Table of Contents
 **Binary Flags:**\
 [BE02](./Binary/BE02.md)\
+[BM01](./Binary/BM01.md)\
 [BM02](./Binary/BM02.md)\
 [BM03](./Binary/BM03.md)\
 [BH01](./Binary/BH01.md)
