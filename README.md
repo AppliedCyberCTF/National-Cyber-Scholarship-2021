@@ -10,7 +10,8 @@ This specific writeup is from the ACS, or Applied Cybersecurity Society.
 [BM01](./Binary/BM01.md)\
 [BM02](./Binary/BM02.md)\
 [BM03](./Binary/BM03.md)\
-[BH01](./Binary/BH01.md)
+[BH01](./Binary/BH01.md)\
+[BX01](./Binary/BX01.md)
 
 **Forensic Flags:**\
 [FE01](./Forensics/FE01.md)\
