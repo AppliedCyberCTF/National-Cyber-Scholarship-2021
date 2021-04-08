@@ -2,7 +2,7 @@
 
 ## About
 This was a CTF-style competition in which people had to find flags from given information or data.
-This specific writeup is from the ACS, or Applied Cybersecurity Society.
+This specific writeup is from ACS, or Applied Cybersecurity Society.
 
 ## Table of Contents
 **Binary Flags:**\
