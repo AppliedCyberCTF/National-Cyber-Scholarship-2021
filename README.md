@@ -22,6 +22,10 @@ This specific writeup is from the ACS, or Applied Cybersecurity Society.
 [NE01](./Networking/NE01.md)\
 [NM01](./Networking/NM01.md)
 
+**Web Flags:**\
+[WE01](./Web/WE01.md)\
+[WE02](./Web/WE02.md)
+
 ```
 Written by the Applied Cybersecurity Society
 ```
