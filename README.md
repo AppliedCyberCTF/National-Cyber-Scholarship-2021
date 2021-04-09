@@ -8,7 +8,7 @@ This specific writeup is from the ACS, or Applied Cybersecurity Society.
 ### Binary
 | Easy | Medium | Hard | Extreme |
 |------|--------|------|---------|
-|~~[BE01](Binary/BE01)~~|[BM01](./Binary/BM01.md)|[BH01](./Binary/BH01.md)|[BX01](./Binary/BX01.md))|
+|~~[BE01](Binary/BE01)~~|[BM01](./Binary/BM01.md)|[BH01](./Binary/BH01.md)|[BX01](./Binary/BX01.md)|
 |[BE02](./Binary/BE02.md)|[BM02](./Binary/BM02.md)||~~[BX02](Binary/BX02)~~|
 ||[BM03](./Binary/BM03.md)|||
 
