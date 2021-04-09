@@ -23,8 +23,7 @@ This CTF was run for both [National Cyber Scholarship](https://www.nationalcyber
 * Hard - 500pts
 * Extreme - 1000pts
 
-## Challenge Writeups
-These have been organized in order they appear on the site:
+## Table of Contents
 
 ### Binary
 | Easy | Medium | Hard | Extreme |
