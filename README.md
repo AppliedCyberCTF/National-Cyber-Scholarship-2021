@@ -29,5 +29,5 @@ This specific writeup is from the ACS, or Applied Cybersecurity Society.
 [WE01](./Web/WE01.md)\
 [WE02](./Web/WE02.md)
 ```
-Written by the Applied Cybersecurity Society
+Copyright (c) 2021 Applied Cybersecurity Society
 ```
