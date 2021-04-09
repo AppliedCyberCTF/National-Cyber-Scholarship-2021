@@ -34,7 +34,7 @@ This specific writeup is from the ACS, or Applied Cybersecurity Society.
 ### Web
 | Easy | Medium | Hard | Extreme |
 |------|--------|------|---------|
-|[WE01](./Web/WE01.md)|~~[WM01](Web/WM01)~~|~~{WH01](Web/WH01)~~|~~[WX01](Web/WX01)~~|
+|[WE01](./Web/WE01.md)|~~[WM01](Web/WM01)~~|~~[WH01](Web/WH01)~~|~~[WX01](Web/WX01)~~|
 |[WE02](./Web/WE02.md)|[WM02](./Web/WM02.md)|[WH02](./Web/WH02.md)||
 ||[WM03](./Web/WM03.md)|||
 ||~~[WM04](Web/WM04)~~|||
