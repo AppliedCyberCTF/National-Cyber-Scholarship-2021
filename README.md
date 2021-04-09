@@ -27,7 +27,11 @@ This specific writeup is from the ACS, or Applied Cybersecurity Society.
 
 **Web Flags:**\
 [WE01](./Web/WE01.md)\
-[WE02](./Web/WE02.md)
+[WE02](./Web/WE02.md)\
+[WM02](./Web/WM02.md)\
+[WM03](./Web/WM03.md)\
+[WH02](./Web/WH02.md)
+
 ```
 Copyright (c) 2021 Applied Cybersecurity Society
 ```
